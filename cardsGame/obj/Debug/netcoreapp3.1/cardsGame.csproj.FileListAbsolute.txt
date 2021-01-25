@@ -1,0 +1,13 @@
+C:\Users\320049790\source\repos\cardsGame\cardsGame\bin\Debug\netcoreapp3.1\cardsGame.exe
+C:\Users\320049790\source\repos\cardsGame\cardsGame\bin\Debug\netcoreapp3.1\cardsGame.deps.json
+C:\Users\320049790\source\repos\cardsGame\cardsGame\bin\Debug\netcoreapp3.1\cardsGame.runtimeconfig.json
+C:\Users\320049790\source\repos\cardsGame\cardsGame\bin\Debug\netcoreapp3.1\cardsGame.runtimeconfig.dev.json
+C:\Users\320049790\source\repos\cardsGame\cardsGame\bin\Debug\netcoreapp3.1\cardsGame.dll
+C:\Users\320049790\source\repos\cardsGame\cardsGame\bin\Debug\netcoreapp3.1\cardsGame.pdb
+C:\Users\320049790\source\repos\cardsGame\cardsGame\obj\Debug\netcoreapp3.1\cardsGame.csprojAssemblyReference.cache
+C:\Users\320049790\source\repos\cardsGame\cardsGame\obj\Debug\netcoreapp3.1\cardsGame.AssemblyInfoInputs.cache
+C:\Users\320049790\source\repos\cardsGame\cardsGame\obj\Debug\netcoreapp3.1\cardsGame.AssemblyInfo.cs
+C:\Users\320049790\source\repos\cardsGame\cardsGame\obj\Debug\netcoreapp3.1\cardsGame.csproj.CoreCompileInputs.cache
+C:\Users\320049790\source\repos\cardsGame\cardsGame\obj\Debug\netcoreapp3.1\cardsGame.dll
+C:\Users\320049790\source\repos\cardsGame\cardsGame\obj\Debug\netcoreapp3.1\cardsGame.pdb
+C:\Users\320049790\source\repos\cardsGame\cardsGame\obj\Debug\netcoreapp3.1\cardsGame.genruntimeconfig.cache
